@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DON'T COMMIT THIS IN PRODUCTION! -->
+<resources>
+    <string name="yelp_api_key">hq5830q14W6XXTQnqI7yOgtYQPhQBFxy6jcbeH8zCmYehP-DwnqNvvVu3-LwZJyuC4-L01QEvSOBxBYVmJPnOaY7mH4UbK68WavsUj5_G7fsckFvHEFK2B6a_bK3XXYx</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yelp Demo</string>
+    <string name="search_button">Search</string>
+    <string name="mock_business_name">Strauss</string>
+    <string name="mock_business_address">189 Elizabeth St</string>
+    <string name="mock_business_review">31 reviews</string>
+    <string name="coffee">coffee</string>
+    <string name="empty_message">Can\'t find anything for %s.</string>
+</resources>
